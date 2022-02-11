@@ -48,5 +48,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://github.com/bannnned)
+- Website - [My github](https://github.com/bannnned)
 
