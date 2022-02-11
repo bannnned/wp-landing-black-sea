@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/bannnned/wp-landing-black-sea)
-- Live Site URL: [Add live site URL here](http://q92159j8.beget.tech/)
+- Solution URL: [Github repo](https://github.com/bannnned/wp-landing-black-sea)
+- Live Site URL: [Live site on Beget](http://q92159j8.beget.tech/)
 
 ## My process
 
