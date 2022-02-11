@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Preview - 1](./screenshot.jpg)
-![Preview - 2](./screenshot.jpg)
+![Preview - 1](https://github.com/bannnned/wp-landing-black-sea/blob/main/assets/img/screenshots/scr-1.PNG)
+![Preview - 2](https://github.com/bannnned/wp-landing-black-sea/blob/main/assets/img/screenshots/scr-2.PNG)
 
 ### Links
 
